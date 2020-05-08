@@ -1,15 +1,21 @@
-# Python Programming
-## General Instructions
-* The content is based on Code Help course on YouTube by Love Babbar and taught by Harman
-* Course Link - [Code Help: Python](https://www.youtube.com/watch?v=xSDLwlAAVNg&list=PLDzeHZWIZsTrPQHBWT0Rxjc37n6DjUpbf)
-* All the content is curated by me
+# Lecture Notes 1
+### Date: 08-May-2020
+* Python Installation
+  * Donwload Link - [Python Link](https://www.python.org/downloads/)
+  * During Installation, Check the option for "Add Python 3.8 to PATH"
+* Check Python Successful Installation by using Command Prompt
+  * Start -> Search for "cmd"
+  * type "python"
+  * If python version comes up then that means it is successfully installed otherwise not.
+* There are two ways to write python program:
+  * Python Shell - It is useful for short logics
+  * IDE - It is useful for development code and long logic implementation
 
-![Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
+* PyCharm is one of the most popular IDE for Python and is primarly used for development.
+* IDE Installation - Sublime
+  * Download Link - [Sublime Text Editor](https://www.sublimetext.com/3)
 
-## License
-* This repository is released under the MIT license. In short, this means you are free to use. 
-  Attribution is optional but appreciated :)
-## Author
-* Name - Abhinav
-* GitHub - [github.com/abhinavg916](https://github.com/abhinavg916)
-* Email - abhinavg916@gmail.com
+* `.py` extension is used for python program file
+* To save python file, `fileName.py`
+
+* Program to print Hello World in Python
