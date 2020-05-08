@@ -3,7 +3,7 @@
 
 * Python Installation
   * Donwload Link - [Download Python](https://www.python.org/downloads/)
-  * During Installation, Check the option for "Add Python 3.8 to PATH"
+  * During Installation, __Check the option for "Add Python 3.8 to PATH"__
 * Check Python Successful Installation by using Command Prompt
   * Start -> Search for "cmd"
   * type "python"
@@ -15,9 +15,9 @@
 * IDE Installation - Sublime
   * Download Link - [Sublime Text Editor](https://www.sublimetext.com/3)
 * `.py` extension is used for python program file
-* To save python file, `fileName.py`
+* To __save__ python file, `fileName.py`
 * Program 1: [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%201/1HelloWorld.py)
-* To execute python program,
+* To __execute__ python program,
   * Using PowerShell (or Terminal for MacOS)
     * Hold __Shift__ and __Right Click__ in directory where program is present to open up PowerShell 
     * Type `python fileName.py` to compile and run the program
