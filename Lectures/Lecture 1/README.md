@@ -2,7 +2,7 @@
 ### Date: 08-May-2020
 
 * Python Installation
-  * Donwload Link - [Python Link](https://www.python.org/downloads/)
+  * Donwload Link - [Download Python](https://www.python.org/downloads/)
   * During Installation, Check the option for "Add Python 3.8 to PATH"
 * Check Python Successful Installation by using Command Prompt
   * Start -> Search for "cmd"
