@@ -20,6 +20,10 @@ __IDE Installation__
 __Execution of Python Programs__
 * To __save__ python file, `fileName.py`
 * Program 1: [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%201/1HelloWorld.py)
+```
+  print("Hello World")
+  print("Abhinav")
+```
 * To __execute__ python program,
   * Using PowerShell (or Terminal for MacOS)
     * Hold __Shift__ and __Right Click__ in directory where program is present to open up PowerShell 
