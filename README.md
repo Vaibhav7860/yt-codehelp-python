@@ -10,6 +10,9 @@
 * __Python__ - [Download Python](https://www.python.org/downloads/)
 * __IDE - Sublime Text Editor__ - [Download Sublime](https://www.sublimetext.com/3)
 
+## Contents
+* [Lecture 1](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture%201) - Python Installation and Setup
+
 ## License
 * This repository is released under the MIT license. In short, this means you are free to use. 
   Attribution is optional but appreciated :)
