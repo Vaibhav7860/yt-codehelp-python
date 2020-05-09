@@ -1,0 +1,6 @@
+print("Enter First Name: ")
+str1 = input()
+print("Enter Last Name: ")
+str2 = input()
+print("Your Full Name: ")
+print(str1 + " " + str2)

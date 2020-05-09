@@ -13,6 +13,42 @@ __Variables__
 * For Example: 
   * r = 10 -> This means 10 is stored in the variable 'r'
   *  10 = r -> This means r is to stored in the constant value 10, which is incorrect.
+  * Similarly,  r = r + 2 -> Value of r is increment by value of 2. 
+    * As a mathematical expression, it is not valid because r - r = 2 => 0 != 2
 * Program 2: [Program to calculate the area of circle]()
+```
+  r = 10
+  area = 3.14 * r * r
+  print(area)
+```
+* `" "` quotes are used only for printing Strings
+  * print("Hello")
+  * print("area")  //Wrong because here area is a variable not a string
+* Types of Variables
+  * Integers - -ve to +ve numbers
+  * Float - Decimal numbers
+  * String - Sequence of Characters
+
+__Taking Console Inputs__
+* input() is used to take dynamic input from console.
+* Python treats input taken from console as Strings. So, it is must to type cast for numeric values.
+* For Example:
+```
+  r = int(input())
+  area = 3.14 * r * r
+  print(area)
+```
+* `#` is used for Commenting code in Python. Shortcut key is __CTRL + /__
+
+__Strings__
+```
+  str1 = "Abhinav"
+  str2 = "Dhiman"
+  print(str1 + " " + str2)
+```
+* Program 3 : [Program to display user full name]()
+
+
+
 
   
