@@ -12,7 +12,7 @@
 
 ## Contents
 * [Lecture 1](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture%201) - Python Installation and Setup
-* [Lecture 2]()
+* [Lecture 2]() - Error Handling, Variables, Taking Console Input, Strings
 * [Lecture 3]()
 * [Lecture 4]()
 * [Lecture 5]()
