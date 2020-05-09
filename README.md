@@ -8,11 +8,13 @@
 
 ## Requirements
 * __Python__ - [Download Python](https://www.python.org/downloads/)
-* __IDE - Sublime Text Editor__ - [Download Sublime](https://www.sublimetext.com/3)
+* __IDE__ 
+  * Sublime Text Editor - [Download Sublime](https://www.sublimetext.com/3)
+  * VSCode - [Download VSCode](https://code.visualstudio.com/download)
 
 ## Contents
-* [Lecture 1](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture%201) - Python Installation and Setup
-* [Lecture 2]() - Error Handling, Variables, Taking Console Input, Strings
+* [Lecture 1](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture1) - Python Installation, IDE Installatoin, Execution
+* [Lecture 2](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture2) - Error Handling, Variables, Taking Console Input, Basics of Strings
 * [Lecture 3]()
 * [Lecture 4]()
 * [Lecture 5]()
