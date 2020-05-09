@@ -1,9 +1,9 @@
 # Lecture Notes 1
 ### Date: 08-May-2020
 
-* Python Installation
-  * Donwload Link - [Download Python](https://www.python.org/downloads/)
-  * During Installation, __Check the option for "Add Python 3.8 to PATH"__
+__Python Installation__
+* Donwload Link - [Download Python](https://www.python.org/downloads/)
+* During Installation, __Check the option for "Add Python 3.8 to PATH"__
 * Check Python Successful Installation by using Command Prompt
   * Start -> Search for "cmd"
   * type "python"
@@ -11,10 +11,13 @@
 * There are two ways to write python program:
   * Python Shell - It is useful for short logics
   * IDE - It is useful for development code and long logic implementation
+
+__IDE Installation__
 * PyCharm is one of the most popular IDE for Python and is primarly used for development.
-* IDE Installation - Sublime
-  * Download Link - [Sublime Text Editor](https://www.sublimetext.com/3)
+* Download Link - [Sublime Text Editor](https://www.sublimetext.com/3)
 * `.py` extension is used for python program file
+
+__Execution of Python Programs__
 * To __save__ python file, `fileName.py`
 * Program 1: [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%201/1HelloWorld.py)
 * To __execute__ python program,
