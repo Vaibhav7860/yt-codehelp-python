@@ -13,21 +13,24 @@
   * VSCode - [Download VSCode](https://code.visualstudio.com/download)
 
 ## Contents
-* [Lecture 1](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture1) - Python Installation, IDE Installatoin, Execution
-* [Lecture 2](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture2) - Variables, Taking Console Input, Basics of Strings
-* [Lecture 3](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture3) - If Else, Loops
-* [Lecture 4]()
-* [Lecture 5]()
-* [Lecture 6]()
-* [Lecture 7]()
-* [Lecture 8]()
-* [Lecture 9]()
-* [Lecture 10]()
-* [Lecture 11]()
-* [Lecture 12]()
-* [Lecture 13]()
-* [Lecture 14]()
-* [Lecture 15]()
+* Lectures
+  * [Lecture 1](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture1) - Python Installation, IDE Installatoin, Execution
+  * [Lecture 2](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture2) - Variables, Taking Console Input, Basics of Strings
+  * [Lecture 3](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture3) - If Else, Loops
+  * [Lecture 4]()
+  * [Lecture 5]()
+  * [Lecture 6]()
+  * [Lecture 7]()
+  * [Lecture 8]()
+  * [Lecture 9]()
+  * [Lecture 10]()
+  * [Lecture 11]()
+  * [Lecture 12]()
+  * [Lecture 13]()
+  * [Lecture 14]()
+  * [Lecture 15]()
+* Assignments
+  * [Hackerrank]()
 
 ## Author
 * Name - Abhinav
