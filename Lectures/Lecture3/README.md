@@ -60,7 +60,7 @@ __Loops__
   import random
   r = random.randint(1, 20)
   ```
-* Program 4 : [Program for Number Guessing Game]()
+* Program 4 : [Program for Number Guessing Game](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture3/4NumberGuessingGame.py)
 * boolean values are represented in capital form otherwise compile time error.
   ```
   while(True):
