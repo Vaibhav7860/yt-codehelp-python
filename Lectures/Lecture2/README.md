@@ -39,6 +39,12 @@ __Error Handling__
     print(area)
   ```
 * `#` is used for Commenting code in Python. Shortcut key is __CTRL + /__
+* To print the output in single line, `end = " "` is used
+  ```
+  print("Hello", end= " ")
+  print("World")
+  ```
+  Output : Hello World
 
 ### Strings
 ```
