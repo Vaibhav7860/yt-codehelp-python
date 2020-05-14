@@ -19,7 +19,7 @@ __IDE Installation__
 
 __Execution of Python Programs__
 * To __save__ python file, `fileName.py`
-* Program 1: [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture1/1HelloWorld.py)
+* Program: [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture1/1HelloWorld.py)
 ```
   print("Hello World")
   print("Abhinav")
