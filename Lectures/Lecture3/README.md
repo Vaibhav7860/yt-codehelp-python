@@ -27,7 +27,7 @@ __If Else__
       print("Equal")
   ```
 __Loops__
-* It helps in executing repeative statements based on conditions till they are satisfied.
+* It helps in executing iterative statements based on conditions till they are satisfied.
 * There are 3 types of loops:
   * For Loop
   * While Loop
@@ -53,7 +53,7 @@ __Loops__
 * For Example:
   * `import random` - Here, random is the name of the python library <br>
   * `randint(a, b)` - randint() method takes two arguements which generates the random numbers between them
-* To use a method, 
+* To use a method of another function, `.`(dot) operator is used 
   * Syntax: `libraryName.methodName` 
   * For Example: 
   ```
