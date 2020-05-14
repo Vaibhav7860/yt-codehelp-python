@@ -5,7 +5,7 @@ __Error Handling__
 * How to resolve error, copy the complete error and paste in the Google.
 * StackOverflow is one of the best website for error resolution.
 
-__Variables__
+### Variables
 * Stores the data into it
 * It declared before use. Decalaration means reserving space in the memory ppol.
 * Variable Initialisation means putting value in it.
@@ -29,7 +29,7 @@ __Variables__
   * Float - Decimal numbers
   * String - Sequence of Characters
 
-__Taking Console Inputs__
+### Taking Console Inputs
 * input() is used to take dynamic input from console.
 * Python treats input taken from console as Strings. So, it is must to type cast for numeric values.
 * For Example:
@@ -40,7 +40,7 @@ __Taking Console Inputs__
 ```
 * `#` is used for Commenting code in Python. Shortcut key is __CTRL + /__
 
-__Strings__
+### Strings
 ```
   str1 = "Abhinav"
   str2 = "Dhiman"
