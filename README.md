@@ -16,8 +16,8 @@
 * Lectures
   * [Lecture 1](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture1) - Python Installation, IDE Installatoin, Execution
   * [Lecture 2](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture2) - Variables, Taking Console Input, Basics of Strings
-  * [Lecture 3](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture3) - If Else, Loops
-  * [Lecture 4]()
+  * [Lecture 3](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture3) - If Else, While Loop
+  * [Lecture 4]() - For Loop, Functions, Import Commands
   * [Lecture 5]()
   * [Lecture 6]()
   * [Lecture 7]()
