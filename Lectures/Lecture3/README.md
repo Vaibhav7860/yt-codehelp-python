@@ -33,11 +33,11 @@
   * While Loop
   * Do While Loop
 * For Example (While Loop):
-```
-  x = int(input())
-  while(x > 10):
-      print("Hello")
-```
+  ```
+    x = int(input())
+    while(x > 10):
+        print("Hello")
+  ```
 * when condition is satisified all time than programs runs into infinite loop.
 * Infinite Loop - No blocking condition and loop keeps on executing the code inside it.
 * __CTRL + Z__ - Stops the infinite loop during exection.
@@ -56,11 +56,11 @@
 * To use a method of another function, `.`(dot) operator is used 
   * Syntax: `libraryName.methodName` 
   * For Example: 
-  ```
-  import random
-  r = random.randint(1, 20)
-  ```
-* Program: [Program for Number Guessing Game](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture3/4NumberGuessingGame.py)
+    ```
+    import random
+    r = random.randint(1, 20)
+    ```
+* Program: [Program for Number Guessing Game]()
 * boolean values are represented in capital form otherwise compile time error.
   ```
   while(True):

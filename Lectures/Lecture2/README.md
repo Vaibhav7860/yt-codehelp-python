@@ -15,12 +15,12 @@ __Error Handling__
   *  10 = r -> This means r is to stored in the constant value 10, which is incorrect.
   * Similarly,  r = r + 2 -> Value of r is increment by value of 2. 
     * As a mathematical expression, it is not valid because r - r = 2 => 0 != 2
-* Program: [Program to calculate the area of circle](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture2/2CircleArea.py)
-```
-  r = 10
-  area = 3.14 * r * r
-  print(area)
-```
+* Program: [Program to calculate the area of circle]()
+  ```
+    r = 10
+    area = 3.14 * r * r
+    print(area)
+  ```
 * `" "` quotes are used only for printing Strings
   * print("Hello")
   * print("area")  //Wrong because here area is a variable not a string
@@ -33,11 +33,11 @@ __Error Handling__
 * input() is used to take dynamic input from console.
 * Python treats input taken from console as Strings. So, it is must to type cast for numeric values.
 * For Example:
-```
-  r = int(input())
-  area = 3.14 * r * r
-  print(area)
-```
+  ```
+    r = int(input())
+    area = 3.14 * r * r
+    print(area)
+  ```
 * `#` is used for Commenting code in Python. Shortcut key is __CTRL + /__
 
 ### Strings
@@ -46,7 +46,7 @@ __Error Handling__
   str2 = "Dhiman"
   print(str1 + " " + str2)
 ```
-* Program: [Program to display user full name](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture2/3UserName.py)
+* Program: [Program to display user full name]()
 
 
 
