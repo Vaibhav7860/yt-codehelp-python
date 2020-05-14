@@ -26,6 +26,11 @@
   else:
       print("Equal")
   ```
+### Logical Operators
+* Logical AND - a and b
+* Logical OR - a or b
+* Logical NOT - Not(a and b)
+
 ### Loops
 * It helps in executing iterative statements based on conditions till they are satisfied.
 * There are 3 types of loops:
