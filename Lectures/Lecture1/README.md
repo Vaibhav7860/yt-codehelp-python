@@ -19,7 +19,7 @@
 
 ### Execution of Python Programs
 * To __save__ python file, `fileName.py`
-* Program: [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture1/1HelloWorld.py)
+* Program: [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture1/HelloWorld.py)
 * To __execute__ python program,
   * Using PowerShell (or Terminal for MacOS)
     * Hold __Shift__ and __Right Click__ in directory where program is present to open up PowerShell 
