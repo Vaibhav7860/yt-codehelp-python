@@ -69,7 +69,7 @@
 * To import all the content, `*` is used 
 * Syntax:
   ```
-  from PythonFileNme import *
+  from FileNme import *
   print(MemberName)
   ```
 * For Example:
