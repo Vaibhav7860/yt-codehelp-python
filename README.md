@@ -3,6 +3,7 @@
 * The content is based on Code Help course on YouTube by Love Babbar and taught by Harman
 * Course Link - [Code Help: Python Programming](https://www.youtube.com/watch?v=xSDLwlAAVNg&list=PLDzeHZWIZsTrPQHBWT0Rxjc37n6DjUpbf)
 * THe content of the course is categorized on the basis of Lectures.
+* It contains assignments on each topic
 
 ![Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
 
