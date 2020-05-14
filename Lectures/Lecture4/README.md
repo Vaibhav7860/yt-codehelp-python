@@ -55,8 +55,8 @@
   * Better Code Readibility
 * Syntax:
   ```
-  import PythonFileName
-  print(PythonFileName.MemberName)
+  import FileName
+  print(FileName.MemberName)
   ```
 * For Example:
   ```
