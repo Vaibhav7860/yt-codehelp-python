@@ -5,7 +5,7 @@
 * `:` symbol is used to denote the sub-body or internal body
 * Misplacement in python code due to indentation results in compile error.
 
-### If Else
+## If Else
 * It is conditional statement used for checking conditions and execution part which satisfies it.
 * Syntax:
   ```
@@ -26,12 +26,12 @@
   else:
       print("Equal")
   ```
-### Logical Operators
+## Logical Operators
 * Logical AND - a and b
 * Logical OR - a or b
 * Logical NOT - Not(a and b)
 
-### Loops
+## Loops
 * It helps in executing iterative statements based on conditions till they are satisfied.
 * There are 3 types of loops:
   * For Loop
