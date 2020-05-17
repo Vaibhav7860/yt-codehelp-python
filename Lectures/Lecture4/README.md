@@ -1,7 +1,7 @@
 # Lecture Notes 4
 ### Date: 13-May-2020
 
-### For Loop
+## For Loop
 * It is one of the type of loop
 * It uses __in range()__ function
 * Variations of for loop
@@ -23,7 +23,7 @@
       ```
 * Program: [Program for Variations in for Loop](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture4/VariationsofForLoop.py)
 
-### Functions
+## Functions
 * Python program begins from __main__ function
 * It is defined with the help of __def__ keyword
 * Functions are always called when to be used
@@ -45,7 +45,7 @@
     ``` 
 * Program: [Program for Function](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture4/Functions.py)
 
-### Import and From Command
+## Import and From Command
 * __import__ is used for importing contents of other program into the current file.
 * It imports only the necessary and required contents
 * `.` operator is used to access the contents(method, variables, etc)
