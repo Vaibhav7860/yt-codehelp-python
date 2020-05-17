@@ -1,7 +1,7 @@
 # Lecture Notes 1
 ### Date: 08-May-2020
 
-### Python Installation
+## Python Installation
 * Donwload Link - [Download Python](https://www.python.org/downloads/)
 * During Installation, __Check the option for "Add Python 3.8 to PATH"__
 * Check Python Successful Installation by using Command Prompt
@@ -12,12 +12,12 @@
   * Python Shell - It is useful for short logics
   * IDE - It is useful for development code and long logic implementation
 
-### IDE Installation
+## IDE Installation
 * PyCharm is one of the most popular IDE for Python and is primarly used for development.
 * Download Link - [Sublime Text Editor](https://www.sublimetext.com/3)
 * `.py` extension is used for python program file
 
-### Execution of Python Programs
+## Execution of Python Programs
 * To __save__ python file, `fileName.py`
 * Program: [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture1/HelloWorld.py)
 * To __execute__ python program,

@@ -5,7 +5,7 @@ __Error Handling__
 * How to resolve error, copy the complete error and paste in the Google.
 * StackOverflow is one of the best website for error resolution.
 
-### Variables
+## Variables
 * Stores the data into it
 * It declared before use. Decalaration means reserving space in the memory ppol.
 * Variable Initialisation means putting value in it.
@@ -29,7 +29,7 @@ __Error Handling__
   * Float - Decimal numbers
   * String - Sequence of Characters
 
-### Taking Console Inputs
+## Taking Console Inputs
 * input() is used to take dynamic input from console.
 * Python treats input taken from console as Strings. So, it is must to type cast for numeric values.
 * For Example:
@@ -46,7 +46,7 @@ __Error Handling__
   ```
   Output : Hello World
 
-### Strings
+## Basics of Strings
 ```
   str1 = "Abhinav"
   str2 = "Dhiman"
