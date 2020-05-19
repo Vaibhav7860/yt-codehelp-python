@@ -152,4 +152,4 @@ print(l)
     l = [1,2,3,4,5,6,6,6,6,6]
     print(l.count(6)) # Output = 5
     ```
-* Program - [Program to count the occurance of a element in list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture6/ListCount.py)
+* Program - [Program to count the occurences of a element in list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture6/ListCount.py)

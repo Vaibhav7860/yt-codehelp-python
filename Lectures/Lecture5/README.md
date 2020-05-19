@@ -97,7 +97,7 @@
   count = a.count(b)
   print(count)
   ```
-* Program - [Program to count the occurances in a string]()
+* Program - [Program to count the occurences in a string]()
 
 ## String: Find
 * __find()__ function returns the starting index of a string present in another string
