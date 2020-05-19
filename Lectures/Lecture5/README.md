@@ -97,6 +97,7 @@
   count = a.count(b)
   print(count)
   ```
+* Program - [Program to count the occurances in a string]()
 
 ## String: Find
 * __find()__ function returns the starting index of a string present in another string
@@ -112,7 +113,7 @@
   count = a.find(b) #Output = 0
   print(count)
   ```
-* Program - [Program to slice string from desired string from another string]() - It is also called as Cropping
+* Program - [Program to slice a string from desired strin then find index]() - It is also called as Cropping
 * Program - [Program to display YES/NO for string]()
 * Above, program is correct but Python has another keyword called as __`in`__
 * For Example:
