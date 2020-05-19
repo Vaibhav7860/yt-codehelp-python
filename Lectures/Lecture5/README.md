@@ -81,7 +81,7 @@
       s = x[1:]
       print(s) #Output = earning Strings
       ```
-* Program - [Program to find substring of a string using Slicing](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringSlicing.py)
+* Program - [Program to find substring of a string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringSlicing.py)
 
 ## String: Count
 * __count()__ function counts the number of occurances a string has appeared in other string
