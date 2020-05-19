@@ -1,4 +1,4 @@
-# Lecture Notes 4
+# Lecture Notes 5
 ### Date: 15-May-2020
 
 ## Strings: Introduction
@@ -22,6 +22,37 @@
   ```
 * Program - [Program to find the length of string]()
 * Accessing index out of the range of string index results in __Index Out of Range error__
+
+## Strings: Basic Operations
+* To __loop__ a string
+  * For Example:
+    ```
+    a = "Hi Hi Hi Abhinav"
+    for c in a: #It takes characters from a and puts in C till null characters is found and stops
+        print(c)
+    ```
+* To __Upper Case__ letters in a string
+  * __upper()__ is used
+  * Syntax:
+    ```
+    stringVariable.upper()
+    ```
+  * For Example:
+    ```
+    a = "Hi Hi Hi Abhinav"
+    print(a.upper())
+  ```
+* To __Lower Case__ letters in a string
+  * __lower()__ is used
+  * Syntax:
+    ```
+    stringVariable.lower()
+    ```
+  * For Example:
+    ```
+    a = "Hi Hi Hi Abhinav"
+    print(a.lower())
+    ```
 
 ## String: Slicing
 * Slicing means part or sub string of a string
@@ -108,40 +139,3 @@
   print(a) #Output = HiHiHiAbhinav
   ```
 * Program - [Program for String replacement]()
-
-## Strings: Basic Operations
-* To __loop__ a string
-  * For Example:
-    ```
-    a = "Hi Hi Hi Abhinav"
-    for c in a: #It takes characters from a and puts in C till null characters is found and stops
-        print(c)
-    ```
-* To __Upper Case__ letters in a string
-  * __upper()__ is used
-  * Syntax:
-    ```
-    stringVariable.upper()
-    ```
-  * For Example:
-    ```
-    a = "Hi Hi Hi Abhinav"
-    print(a.upper())
-  ```
-* To __Lower Case__ letters in a string
-  * __lower()__ is used
-  * Syntax:
-    ```
-    stringVariable.lower()
-    ```
-  * For Example:
-    ```
-    a = "Hi Hi Hi Abhinav"
-    print(a.lower())
-    ```
-
-
-
-
-
-
