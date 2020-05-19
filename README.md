@@ -18,7 +18,7 @@
   * [Lecture 3](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture3) - If Else, While Loop
   * [Lecture 4](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture4) - For Loop, Functions, Import and From Command
   * [Lecture 5]() - Strings: Basic Operations, Slicing, Count, Find and Replace
-  * [Lecture 6]() - List: Append, Extend, Insert, Count, Sum, Pop
+  * [Lecture 6]() - List: Append, Extend, Insert, Count, Sum, Pop, Sort
   * [Lecture 7]()
   * [Lecture 8]()
   * [Lecture 9]()
