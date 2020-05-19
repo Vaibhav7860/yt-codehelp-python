@@ -111,7 +111,7 @@
   ```
   a = "Hi Hi Hi Abhinav"
   b = "Hi"
-  count = a.find(b) #Output = 0
+  count = a.find(b) # Output = 0
   print(count)
   ```
 * Program - [Program to slice a string from desired strin then find index](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringSlicingandFind.py) - It is also called as __Cropping__
