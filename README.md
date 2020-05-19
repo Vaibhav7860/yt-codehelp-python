@@ -5,8 +5,6 @@
 * THe content of the course is categorized on the basis of Lectures.
 * It contains assignments on each topic
 
-![Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
-
 ## Requirements
 * __Python__ - [Download Python](https://www.python.org/downloads/)
 * __IDE__ 
@@ -19,8 +17,8 @@
   * [Lecture 2](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture2) - Variables, Taking Console Input, Basics of Strings
   * [Lecture 3](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture3) - If Else, While Loop
   * [Lecture 4](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture4) - For Loop, Functions, Import and From Command
-  * [Lecture 5]() - Strings Basic Operations, Slicing, Count, Find and Replace
-  * [Lecture 6]()
+  * [Lecture 5]() - Strings: Basic Operations, Slicing, Count, Find and Replace
+  * [Lecture 6]() - List: Append, Extend, Insert, Count, Sum, Pop
   * [Lecture 7]()
   * [Lecture 8]()
   * [Lecture 9]()
