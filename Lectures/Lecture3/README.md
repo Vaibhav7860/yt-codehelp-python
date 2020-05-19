@@ -65,7 +65,7 @@
     import random
     r = random.randint(1, 20)
     ```
-* Program: [Program for Number Guessing Game](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture3/NumberGuessingGame.py)
+* Program - [Program for Number Guessing Game](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture3/NumberGuessingGame.py)
 * boolean values are represented in capital form otherwise compile time error.
   ```
   while(True):
