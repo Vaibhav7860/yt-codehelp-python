@@ -1,5 +1,5 @@
 l = []
-n = 5
+n = int(input())
 for i in range(n):
     a = int(input())
     l.append(a)
