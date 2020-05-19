@@ -18,7 +18,7 @@
 * For Example  
   ```
   x = "Learning Strings"
-  print(len(x)) #Output = 16
+  print(len(x)) # Output = 16
   ```
 * Program - [Program to find the length of string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringLength.py)
 * Accessing index out of the range of string index results in __Index Out of Range error__
@@ -28,7 +28,7 @@
   * For Example:
     ```
     a = "Hi Hi Hi Abhinav"
-    for c in a: #It takes characters from a and puts in C till null characters is found and stops
+    for c in a: # It takes characters from a and puts in C till null characters is found and stops
         print(c)
     ```
 * To __Upper Case__ letters in a string
@@ -67,20 +67,20 @@
     ```
     x = "Learning Strings"
     s = x[1:5]
-    print(s) #Output = earn
+    print(s) # Output = earn
     
     ```
    * Accessing characters till end index `b` 
       ```
       x = "Learning Strings"
       s = x[:5]
-      print(s) #Output = Learn
+      print(s) # Output = Learn
       ```
    * Accessing character from starting index `a`
      ```
       x = "Learning Strings"
       s = x[1:]
-      print(s) #Output = earning Strings
+      print(s) # Output = earning Strings
       ```
 * Program - [Program to find substring of a string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringSlicing.py)
 
@@ -138,6 +138,6 @@
   ```
   a = "Hi Hi Hi Abhinav"
   a = a.replace(" ", "")
-  print(a) #Output = HiHiHiAbhinav
+  print(a) # Output = HiHiHiAbhinav
   ```
 * Program - [Program for String replacement](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringReplace.py)
