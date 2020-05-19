@@ -9,7 +9,7 @@
   x = "Learning Strings"
   ```
 * Strings are indexed from 0 to n-1
-* Program - [Program to find the indices of string]()
+* Program - [Program to find the indices of string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringIndices.py)
 * __len()__ method is used to find the length of the string
 * Syntax:
   ```
@@ -20,7 +20,7 @@
   x = "Learning Strings"
   print(len(x)) #Output = 16
   ```
-* Program - [Program to find the length of string]()
+* Program - [Program to find the length of string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringLength.py)
 * Accessing index out of the range of string index results in __Index Out of Range error__
 
 ## Strings: Basic Operations
@@ -81,7 +81,7 @@
       s = x[1:]
       print(s) #Output = earning Strings
       ```
-* Program - [Program to find substring of a string using Slicing]()
+* Program - [Program to find substring of a string using Slicing](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringSlicing.py)
 
 ## String: Count
 * __count()__ function counts the number of occurances a string has appeared in other string
