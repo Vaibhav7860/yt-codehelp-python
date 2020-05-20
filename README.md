@@ -28,7 +28,7 @@
   * [Lecture 13]()
   * [Lecture 14]()
   * [Lecture 15]()
-* Problems
+* Problem Solving
   * [Hackerrank](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Problems/Hackerrank)
 
 ## Author
