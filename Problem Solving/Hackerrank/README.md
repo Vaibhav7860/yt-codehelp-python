@@ -1,6 +1,6 @@
 # Things learnt during Problem Solving from Hackerrank
 
-## Basiscs
+## Basics
 * Type Conversion (`d = float(a/b)`)
 * __strip()__ - Strip during input (`n = int(input().strip())`)
 
