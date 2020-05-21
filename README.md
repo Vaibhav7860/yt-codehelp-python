@@ -19,7 +19,7 @@
   * [Lecture 4](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture4) - For Loop, Functions, Import and From Command
   * [Lecture 5](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture5) - Strings: Lowercase, Uppercase, Length, Slicing, Count, Find, Replace
   * [Lecture 6](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture6) - List: Length, Append, Extend, Insert, Count, Sum, Pop, Sort
-  * [Lecture 7]()
+  * [Lecture 7](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture7) - Hackerrank Tutorial, Split, Accessing Last Index of List
   * [Lecture 8]()
   * [Lecture 9]()
   * [Lecture 10]()
