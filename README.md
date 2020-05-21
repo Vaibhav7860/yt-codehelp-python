@@ -5,7 +5,7 @@
 * The content of the course is categorized on the basis of Lectures.
 * It contains assignments on each topic
 
-![Logo]()
+![Logo](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Wallpaper.png)
 
 ## Requirements
 * __Python__ - [Download Python](https://www.python.org/downloads/)
