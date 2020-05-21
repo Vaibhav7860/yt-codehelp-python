@@ -29,7 +29,7 @@
   * [Lecture 14]()
   * [Lecture 15]()
 * Problem Solving
-  * [Hackerrank](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Problems/Hackerrank)
+  * [Hackerrank](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Problem%20Solving/Hackerrank)
 
 ## Author
 * Name - Abhinav
