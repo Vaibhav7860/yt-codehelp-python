@@ -18,6 +18,9 @@
   * __ljust()__ - Left Alignment (`str.ljust(width, [fillchar])`)
   * __rjust()__ - Right Alignment (`str.rjust(width, [fillchar])`)
   * __center()__ - Center Aligment (`str.center(width, [fillchar])`)
+* __join()__ - It joins the list elements (`"".join(l)`)
+* __textwrap.fill(str, width)__ - It wraps the text based on the width (`textwrap.fill(string, max_width)`)
+
 
 ## Lists
 * __split()__ - It splits the input based on the space and stores in the variables. (`a, b = temp.split()`)
