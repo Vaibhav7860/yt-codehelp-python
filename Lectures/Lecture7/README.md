@@ -1,4 +1,4 @@
-# Lecture Notes 6
+# Lecture Notes 7
 ### Date: 19-May-2020
 
 ## Hackerrank Tutorial
