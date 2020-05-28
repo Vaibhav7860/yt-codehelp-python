@@ -28,10 +28,9 @@ for i in range(N):
 
     elif(x.find("sort")>=0):
         l.sort()
-    
+
     elif(x.find("pop")>=0):
         l.pop(-1)
-    
+
     elif(x.find("reverse")>=0):
         l.reverse()
-        
