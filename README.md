@@ -9,7 +9,7 @@
 
 ## Requirements
 * __Python__ - [Download Python](https://www.python.org/downloads/)
-* __IDE__ 
+* __IDE__
   * Sublime Text Editor - [Download Sublime](https://www.sublimetext.com/3)
   * VSCode - [Download VSCode](https://code.visualstudio.com/download)
 
@@ -22,7 +22,7 @@
   * [Lecture 5](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture5) - Strings: Lowercase, Uppercase, Length, Slicing, Count, Find, Replace
   * [Lecture 6](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture6) - List: Length, Append, Extend, Insert, Count, Sum, Pop, Sort
   * [Lecture 7](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Lectures/Lecture7) - Hackerrank Tutorial, Split, Accessing Last Index of List
-  * [Lecture 8]()
+  * [Lecture 8]() -  Dictionaries
   * [Lecture 9]()
   * [Lecture 10]()
   * [Lecture 11]()
