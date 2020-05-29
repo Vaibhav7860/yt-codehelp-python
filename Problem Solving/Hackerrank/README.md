@@ -25,5 +25,5 @@
 ## Lists
 * __split()__ - It splits the input based on the space and stores in the variables. (`a, b = temp.split()`)
 * To represent the __last element in the list__, it is accessed by -1 index. (`l.pop(-1)`)
-* In Python 3, map returns an iterable object of type map, and not a subscriptible list, which would allow us to write map[i]. To force a list result, we can type cast to list. (`l = list(map(int, input().split()))`)
+* In Python 3, __map__ returns an iterable object of type map, and __not a subscriptible list__, which would allow us to write map[i]. To force a list result, we can type cast to list. (`l = list(map(int, input().split()))`)
 * List Comprehension way
