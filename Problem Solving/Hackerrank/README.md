@@ -1,12 +1,32 @@
-# Things Learnt
-## Basics
+# Hackerrank Problem Sets
+## Python Proficiency
+* Introduction
+* Basic Data Types
+* Strings
+* Sets
+* Math
+* Itertools
+* Collections
+* Date and Time
+* Errors and Exceptions
+* Classes
+* Built-Ins
+* Python Functionals
+* Regex and Parsing
+* XML
+* Closures and Decorators
+* Numpy
+* Debugging
+
+## Things Learnt
+### Basics
 * Type Conversion (`d = float(a/b)`)
 * __strip()__ - Strip during input (`n = int(input().strip())`)
 
-## Functions
+### Functions
 * __end=" "__ - Continuous Output Formatting (` print(x+1, end= "")`)
 
-## Strings
+### Strings
 * String slicing with iteration
   ```
   for i in range (len(string)):
@@ -21,7 +41,7 @@
 * __textwrap.fill(str, width)__ - It wraps the text based on the width (`textwrap.fill(string, max_width)`)
 
 
-## Lists
+### Lists
 * __split()__ - It splits the input based on the space and stores in the variables. (`a, b = temp.split()`)
 * To represent the __last element in the list__, it is accessed by -1 index. (`l.pop(-1)`)
 * In Python 3, __map__ returns an iterable object of type map, and __not a subscriptible list__, which would allow us to write map[i]. To force a list result, we can type cast to list. (`l = list(map(int, input().split()))`)
