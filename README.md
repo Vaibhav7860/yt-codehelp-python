@@ -6,7 +6,7 @@
   * VSCode - [Download VSCode](https://code.visualstudio.com/download)
 
 ## Contents
-* Lectures
+* __Lectures__
   * Lecture 1 - Python Installation, IDE Installatoin, Execution
   * Lecture 2 - Variables, Taking Console Input, Basics of Strings
   * Lecture 3 - If Else, While Loop
@@ -22,7 +22,7 @@
   * Lecture 13
   * Lecture 14
   * Lecture 15
-* Problem Solving
+* __Problem Solving__
   * [Hackerrank](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Problem%20Solving/Hackerrank)
 
 ## Author
