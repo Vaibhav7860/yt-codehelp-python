@@ -4,7 +4,7 @@
 ## Strings: Introduction
 * Strings are combination of characters
 * It denoted inside   `" "`
-* For Example: 
+* For Example:
   ```
   x = "Learning Strings"
   ```
@@ -15,7 +15,7 @@
   ```
   __len(strigVariable)__
   ```
-* For Example  
+* For Example
   ```
   x = "Learning Strings"
   print(len(x)) # Output = 16
@@ -68,9 +68,9 @@
     x = "Learning Strings"
     s = x[1:5]
     print(s) # Output = earn
-    
+
     ```
-   * Accessing characters till end index `b` 
+   * Accessing characters till end index `b`
       ```
       x = "Learning Strings"
       s = x[:5]
@@ -98,7 +98,7 @@
   count = a.count(b)
   print(count)
   ```
-* Program - [Program to count the occurences in a string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringCount.py)
+* Program - [Program to count the occurrences in a string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture5/StringCount.py)
 
 ## String: Find
 * __find()__ function returns the starting index of a string present in another string
@@ -128,10 +128,10 @@
   ```
 
 ## String: Replace
-* It accepts two arguements, one is character as input which to be replaced and the other character for to be replaced with in a string 
+* It accepts two arguements, one is character as input which to be replaced and the other character for to be replaced with in a string
 * __replace()__ function is used and returns the updated string
 * Syntax:
-  ``` 
+  ```
   stringA.replace(" ", " ")
   ```
 * For Example:

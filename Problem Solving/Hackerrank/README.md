@@ -15,7 +15,7 @@
 * Regex and Parsing
 * XML
 * Closures and Decorators
-* Numpy
+  - Numpy
 * Debugging
 
 ## Things Learnt

@@ -7,13 +7,13 @@ __Error Handling__
 
 ## Variables
 * Stores the data into it
-* It declared before use. Decalaration means reserving space in the memory ppol.
+* It declared before use. Declaration means reserving space in the memory pool.
 * Variable Initialisation means putting value in it.
 * Value is assignment from right to left, not true vice-versa.
-* For Example: 
+* For Example:
   * r = 10 -> This means 10 is stored in the variable 'r'
   *  10 = r -> This means r is to stored in the constant value 10, which is incorrect.
-  * Similarly,  r = r + 2 -> Value of r is increment by value of 2. 
+  * Similarly, r = r + 2 -> Value of r is increment by value of 2.
     * As a mathematical expression, it is not valid because r - r = 2 => 0 != 2
 * Program - [Program to calculate the area of circle](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture2/CircleArea.py)
   ```

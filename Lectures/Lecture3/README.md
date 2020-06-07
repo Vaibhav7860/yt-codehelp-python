@@ -15,7 +15,7 @@
         body of elif
     else:
         body of else
-  ```      
+  ```
 * For Example:
   ```
   x = int(input())
@@ -43,24 +43,24 @@
     while(x > 10):
         print("Hello")
   ```
-* when condition is satisified all time than programs runs into infinite loop.
+* when condition is satisfied all time than programs runs into infinite loop.
 * Infinite Loop - No blocking condition and loop keeps on executing the code inside it.
-* __CTRL + Z__ - Stops the infinite loop during exection.
+* __CTRL + Z__ - Stops the infinite loop during execution.
 ```
   x = int(input())
   while(x > 10):
       print("Hello")
       x = x - 1
 ```
-* `break` is a selection statement that brings control out of the loop anytime. 
+* `break` is a selection statement that brings control out of the loop anytime.
 * To use inbuilt functions, Python uses support of libraries which contains the pre-defined methods.
 * __import__ is used to import the library and is always defined on top of program code.
 * For Example:
   * `import random` - Here, random is the name of the python library <br>
-  * `randint(a, b)` - randint() method takes two arguements which generates the random numbers between them
-* To use a method of another function, `.`(dot) operator is used 
-  * Syntax: `libraryName.methodName` 
-  * For Example: 
+  * `randint(a, b)` - randint() method takes two arguments which generates the random numbers between them
+* To use a method of another function, `.`(dot) operator is used
+  * Syntax: `libraryName.methodName`
+  * For Example:
     ```
     import random
     r = random.randint(1, 20)

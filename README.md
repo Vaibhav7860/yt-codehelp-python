@@ -7,7 +7,7 @@
 
 ## Contents
 * __Lectures__
-  * Lecture 1 - Python Installation, IDE Installatoin, Execution
+  * Lecture 1 - Python Installation, IDE Installation, Execution
   * Lecture 2 - Variables, Taking Console Input, Basics of Strings
   * Lecture 3 - If Else, While Loop
   * Lecture 4 - For Loop, Functions, Import and From Command

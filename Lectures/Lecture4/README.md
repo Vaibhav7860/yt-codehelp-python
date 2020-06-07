@@ -8,12 +8,12 @@
   * For Example:
     * Starts from 0, executes till `n-1` and updation by 1 each time
       ```
-      for x in range(6): 
+      for x in range(6):
         print(x)
       ```
     * Starts from `a`, executes till `n-1` and updation by 1 each time
       ```
-      for x in range(2, 6): 
+      for x in range(2, 6):
         print(x)
       ```
     * Starts from `a`, executes till `n-1` and updation by `b` each time
@@ -34,15 +34,15 @@
       print("Hi, I am Abhinav")
 
     myFunc1() # Function Calling
-    ``` 
+    ```
   * It is must to store returned value from a function into a variable
     ```
-    def myFunc2(a , b): # Arguements
+    def myFunc2(a , b): # Arguments
       return a + b
 
     result = myFunc2(4, 3) # Parameters
     print(result)
-    ``` 
+    ```
 * Program - [Program for Function](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture4/Functions.py)
 
 ## Import and From Command
@@ -52,7 +52,7 @@
 * It helps in
   * Reducing Code Redundancy
   * Saving Time
-  * Better Code Readibility
+  * Better Code Readability
 * Syntax:
   ```
   import FileName
@@ -66,7 +66,7 @@
 * __from__ is used for importing contents of other program into the current file.
 * It provides the ablility to import all or selected contents
 * It does __not uses__ and does __not requre__ `.`operator to access
-* To import all the content, `*` is used 
+* To import all the content, `*` is used
 * Syntax:
   ```
   from FileNme import *

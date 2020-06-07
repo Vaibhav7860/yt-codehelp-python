@@ -2,7 +2,7 @@
 ### Date: 08-May-2020
 
 ## Python Installation
-* Donwload Link - [Download Python](https://www.python.org/downloads/)
+* Download Link - [Download Python](https://www.python.org/downloads/)
 * During Installation, __Check the option for "Add Python 3.8 to PATH"__
 * Check Python Successful Installation by using Command Prompt
   * Start -> Search for "cmd"
@@ -13,7 +13,7 @@
   * IDE - It is useful for development code and long logic implementation
 
 ## IDE Installation
-* PyCharm is one of the most popular IDE for Python and is primarly used for development.
+* PyCharm is one of the most popular IDE for Python and is primarily used for development.
 * Download Link - [Sublime Text Editor](https://www.sublimetext.com/3)
 * `.py` extension is used for python program file
 
@@ -22,7 +22,7 @@
 * Program - [Program to print Hello World in Python](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture1/HelloWorld.py)
 * To __execute__ python program,
   * Using PowerShell (or Terminal for MacOS)
-    * Hold __Shift__ and __Right Click__ in directory where program is present to open up PowerShell 
+    * Hold __Shift__ and __Right Click__ in directory where program is present to open up PowerShell
     * Type `python fileName.py` to compile and run the program
     * Output is printed on the console
   * Using IDE - For Sublime, use __CTRL + B__ to compile and run

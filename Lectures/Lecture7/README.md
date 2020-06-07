@@ -12,28 +12,28 @@
     a, b = temp.split()
     ```
 * To represent the __last element in the list__, it is accessed by -1 index
-* For Example:  
+* For Example:
     ```
     l.pop(-1)
     ```
-* __Hackerrank Problem Statment__
+* __Hackerrank Problem Statement__
     ```
     Consider a list (list = []). You can perform the following commands:
 
-    insert i e: Insert integer  at position .
+    insert i e: Insert integer at position .
     print: Print the list.
-    remove e: Delete the first occurrence of integer .
-    append e: Insert integer  at the end of the list.
+    remove e: Delete the first occurrence of integer.
+    append e: Insert integer at the end of the list.
     sort: Sort the list.
     pop: Pop the last element from the list.
     reverse: Reverse the list.
-    Initialize your list and read in the value of  followed by  lines of commands where each command will be of the 
+    Initialize your list and read in the value of followed by lines of commands where each command will be of the
     types listed above. Iterate through each command in order and perform the corresponding operation on your list.
 
     Input Format
 
-    The first line contains an integer, , denoting the number of commands.
-    Each line  of the  subsequent lines contains one of the commands described above.
+    The first line contains an integer, denoting the number of commands.
+    Each line of the subsequent lines contains one of the commands described above.
 
     Constraints
 
@@ -43,7 +43,7 @@
     For each command of type print, print the list on a new line.
 
     Sample Input 0
-        
+
         12
         insert 0 5
         insert 1 10
@@ -57,7 +57,7 @@
         pop
         reverse
         print
-        
+
     Sample Output 0
 
         [6, 5, 10]

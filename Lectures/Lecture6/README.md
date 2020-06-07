@@ -15,17 +15,17 @@
         variableName[index]
         ```
     * Length Calculation
-        * __len()__ is used  
+        * __len()__ is used
         ```
         len(listVariableName)
-        ``` 
+        ```
 * For Example:
     * Creation
         ```
         l1 = [] # Empty List
         l2 = [1,2,3] # List with elements in it
         print(l1)
-        print(l2) 
+        print(l2)
         ```
     * Accessing
         ```
@@ -82,7 +82,7 @@ print(l)
         ```
     * For Example:
         ```
-        l = [1,2,3,4,5,6]   
+        l = [1,2,3,4,5,6]
         l.append(7)
         print(l) # Output = [1, 2, 3, 4, 5, 6, 7]
         ```
@@ -117,7 +117,7 @@ print(l)
     ```
     variableName.sort()
     ```
-* For Example:  
+* For Example:
     ```
     l = [1,2,3,4,5,6]
     x = l[1:4]
@@ -152,4 +152,4 @@ print(l)
     l = [1,2,3,4,5,6,6,6,6,6]
     print(l.count(6)) # Output = 5
     ```
-* Program - [Program to count the occurences of a element in list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture6/ListCount.py)
+* Program - [Program to count the occurrences of a element in list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture6/ListCount.py)
