@@ -14,7 +14,7 @@ __Error Handling__
   *  10 = r -> This means r is to stored in the constant value 10, which is incorrect.
   * Similarly, r = r + 2 -> Value of r is increment by value of 2.
     * As a mathematical expression, it is not valid because r - r = 2 => 0 != 2
-* Program - [Program to calculate the area of circle](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%202/CircleArea.py)
+* Program - [Program to Calculate the Area of Circle](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%202/CircleArea.py)
   ```
     r = 10
     area = 3.14 * r * r
@@ -51,4 +51,4 @@ __Error Handling__
   str2 = "Dhiman"
   print(str1 + " " + str2)
 ```
-* Program - [Program to display user full name](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%202/UserName.py)
+* Program - [Program to Display User Full Name](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%202/UserName.py)
