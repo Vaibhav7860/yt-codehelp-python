@@ -139,4 +139,4 @@
   a = a.replace(" ", "")
   print(a) # Output = HiHiHiAbhinav
   ```
-* Program - [Program for String replacement](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringReplace.py)
+* Program - [Program for string replacement](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringReplace.py)
