@@ -21,14 +21,13 @@
 * For Example:
     ```
     import matplotlib.pyplot as plt
-    x = [1, -1, -1, 1, 1] # List of X-coordinates of points
-    y = [1 ,1 ,-1, -1, 1] # List of Y-coordinates of points
+    x = [1, -1, -1, 1, 1] # List of X-Coordinates of points
+    y = [1 ,1 ,-1, -1, 1] # List of Y-Coordinates of points
     plt.plot(x,y) # To plot the points
     plt.show() # To display the plotted points
     ```
 * For a Polygon, Start and End points must be same. In other words, the last point in the list of coordinates (X and Y) must be the very first point so that polygon is closed
-
-* Program - [Program for Ploting Square]()
-![]()
-
-* Program - [Assignment Program]()
+* Program - [Program for Ploting Square](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture9/PlotingSquare.py)
+![Output](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture9/Square.JPG)
+* Problem Statement - [Assignment](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture9/Assignment.pdf)
+* Program - [Assignment Program](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture9/AssignmentProgram.py)
