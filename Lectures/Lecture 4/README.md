@@ -20,7 +20,7 @@
       for x in range(2, 30, 2):
         print(x)
       ```
-* Program - [Program for Variations in for Loop](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture4/VariationsofForLoop.py)
+* Program - [Program for Variations in for Loop](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/VariationsofForLoop.py)
 
 ## Functions
 * Python program begins from __main__ function
@@ -42,7 +42,7 @@
     result = myFunc2(4, 3) # Parameters
     print(result)
     ```
-* Program - [Program for Function](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture4/Functions.py)
+* Program - [Program for Function](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/Functions.py)
 
 ## Import and From Command
 * __import__ is used for importing contents of other program into the current file.
@@ -79,4 +79,4 @@
   result =  myFunc2(8,10)
   print(result)
   ```
-* Program - [Program for Import an From Statements](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture4/ImportandFrom.py)
+* Program - [Program for Import an From Statements](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/ImportandFrom.py)
