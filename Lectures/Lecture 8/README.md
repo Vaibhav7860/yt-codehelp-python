@@ -69,7 +69,7 @@ print(new) # Output - {'Abhinav': [100, 90, 80], 'Babbar': [100, 95, 80]}
     stuMarks = {'Abhinav': 90,'Babbar': 100,'Rahul':80,'Ajay':95}
     print(len(stuMarks)) # Output - 4
     ```
-* Program - [Program for Dictionary Access](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture8/DictionaryAccess.py)
+* Program - [Program for Dictionary Access](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%208/DictionaryAccess.py)
 
 ## Dictionaries: Insertion
 * When new key does not matches with the existing in the dictionary then it gets inserted otherwise value of the respective key is updated
@@ -83,7 +83,7 @@ print(new) # Output - {'Abhinav': [100, 90, 80], 'Babbar': [100, 95, 80]}
   stuMarks['Don'] = 99
   print(stuMarks) # Output - {'Abhinav': 90, 'Babbar': 100, 'Rahul': 80, 'Ajay': 95, 'Don': 99}
   ```
-* Program - [Program for Dictionary Insertion](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture8/DictionaryInsertion.py)
+* Program - [Program for Dictionary Insertion](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%208/DictionaryInsertion.py)
 
 ## Dictionaries: Updation
 * Key is used to target the updation
@@ -111,7 +111,7 @@ print(new) # Output - {'Abhinav': [100, 90, 80], 'Babbar': [100, 95, 80]}
     Ajay 95
     ```
     * Keys are being stored in `i` during the loop due to which `stuMarks[i]` is treated as value
-* Program - [Program for Dictionary Updation](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture8/DictionaryUpdation.py)
+* Program - [Program for Dictionary Updation](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%208/DictionaryUpdation.py)
 
 ## Dictionaries: Deletion
 * Deletion happens in form of pair which means selective key or value is not deleted
@@ -127,7 +127,7 @@ print(new) # Output - {'Abhinav': [100, 90, 80], 'Babbar': [100, 95, 80]}
   del stuMarks['Abhinav']
   print(stuMarks) # Output - {'Babbar': 100, 'Rahul': 80, 'Ajay': 95}
   ```
-* Program - [Program for Dictionary Deletion](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture8/DictionaryDeletion.py)
+* Program - [Program for Dictionary Deletion](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%208/DictionaryDeletion.py)
 
 ## Dictionaries: Searching
 * __Searching value from a corresponding key__
@@ -159,4 +159,4 @@ print(new) # Output - {'Abhinav': [100, 90, 80], 'Babbar': [100, 95, 80]}
     else:
       print("Absent")
     ```
-* Program - [Program for Dictionary Searching](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture8/DictionarySearch.py)
+* Program - [Program for Dictionary Searching](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%208/DictionarySearch.py)
