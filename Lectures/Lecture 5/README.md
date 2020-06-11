@@ -8,7 +8,7 @@
   x = "Learning Strings"
   ```
 * Strings are indexed from 0 to n-1
-* Program - [Program to find the indices of string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringIndices.py)
+* Program - [Program to Find the Indices of String](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringIndices.py)
 * __len()__ method is used to find the length of the string
 * Syntax:
   ```
@@ -19,7 +19,7 @@
   x = "Learning Strings"
   print(len(x)) # Output = 16
   ```
-* Program - [Program to find the length of string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringLength.py)
+* Program - [Program to Find the Length of String](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringLength.py)
 * Accessing index out of the range of string index results in __Index Out of Range error__
 
 ## Strings: Basic Operations
@@ -52,7 +52,7 @@
     a = "Hi Hi Hi Abhinav"
     print(a.lower())
     ```
-* Program - [Program for lowercase, uppercase and loop](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringOperations.py)
+* Program - [Program for Lowercase, Uppercase and Loop](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringOperations.py)
 
 ## String: Slicing
 * Slicing means part or sub string of a string
@@ -81,7 +81,7 @@
       s = x[1:]
       print(s) # Output = earning Strings
       ```
-* Program - [Program to find substring of a string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringSlicing.py)
+* Program - [Program to Find Sub-String of a String](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringSlicing.py)
 
 ## String: Count
 * __count()__ function counts the number of occurances a string has appeared in other string
@@ -97,7 +97,7 @@
   count = a.count(b)
   print(count)
   ```
-* Program - [Program to count the occurrences in a string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringCount.py)
+* Program - [Program to Count the Occurrences in a String](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringCount.py)
 
 ## String: Find
 * __find()__ function returns the starting index of a string present in another string
@@ -113,8 +113,8 @@
   count = a.find(b) # Output = 0
   print(count)
   ```
-* Program - [Program to slice a string from desired strin then find index](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringSlicingandFind.py) - It is also called as __Cropping__
-* Program - [Program to display Yes/No for string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringFind.py)
+* Program - [Program to Slice a String from Desired String then Find Index](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringSlicingandFind.py) - It is also called as __Cropping__
+* Program - [Program to Display Yes/No for String](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringFind.py)
 * Above, program is correct but Python has another keyword called as __`in`__
 * For Example:
   ```
@@ -139,4 +139,4 @@
   a = a.replace(" ", "")
   print(a) # Output = HiHiHiAbhinav
   ```
-* Program - [Program for string replacement](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringReplace.py)
+* Program - [Program for String Replacement](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringReplace.py)
