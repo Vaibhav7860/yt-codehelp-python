@@ -63,4 +63,4 @@
         [1, 5, 9, 10]
         [9, 5, 1]
     ```
-* Program - [Hackerrank "Lists" Problem](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture7/Lists.py)
+* Program - [Hackerrank "Lists" Problem](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%207/Lists.py)
