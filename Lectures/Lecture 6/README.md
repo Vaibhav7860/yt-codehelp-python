@@ -36,7 +36,7 @@
         l = [1,2,3]
         print(len(l)) # Output = 3
         ```
-* Program - [Program for length of list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListLength.py)
+* Program - [Program for Length of List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListLength.py)
 * __Taking Dynamic Inputs__
 ```
 l = []
@@ -47,7 +47,7 @@ for i in range(n):
 
 print(l)
 ```
-* Program - [Program for dynamic input ](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListDynamicInput.py)
+* Program - [Program for Dynamic Input](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListDynamicInput.py)
 * __Sum of Elements__ in a list
 * __sum()__ is used
 * It calculates the sum of all elements in a list
@@ -60,7 +60,7 @@ print(l)
     l = [1,2,3,4,5,6,6,6,6,6]
     print(sum(l)) # Output = 45
     ```
-* Program - [Program to find total sum in list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListSum.py)
+* Program - [Program to Find Total Sum in List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListSum.py)
 
 ## List: Slicing
 * List follows the same principle as of strings
@@ -70,7 +70,7 @@ print(l)
     x = [1:4]
     print(x) # Output = [2,3,4]
     ```
-* Program - [Program for slicing in list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListSlicing.py)
+* Program - [Program for Slicing in List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListSlicing.py)
 
 ## List: Insertion
 * __append()__
@@ -108,7 +108,7 @@ print(l)
         l.insert(0, 0)
         print(l) # Output = [0, 1, 2, 3, 4, 5, 6]
         ```
-* Program - [Program for input or insertion in list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListInsertion.py)
+* Program - [Program for Input or Insertion in List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListInsertion.py)
 
 ## List: Sorting
 * __sort()__ is used
@@ -122,7 +122,7 @@ print(l)
     x = l[1:4]
     print(x) # Output = [2, 3, 5, 6]
     ```
-* Program - [Program to sort a list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListSorting.py)
+* Program - [Program to Sort a List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListSorting.py)
 
 ## List: Deletion
 * __pop()__ is used
@@ -137,7 +137,7 @@ print(l)
     l.pop(3)
     print(l) # Output = [5, 2, 3]
     ```
-* Program - [Program to delete element from a list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListDeletion.py)
+* Program - [Program to Delete Element from a List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListDeletion.py)
 
 ## List: Count
 * It counts the occurances of an element in the list
@@ -151,4 +151,4 @@ print(l)
     l = [1,2,3,4,5,6,6,6,6,6]
     print(l.count(6)) # Output = 5
     ```
-* Program - [Program to count the occurrences of a element in list](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListCount.py)
+* Program - [Program to Count the Occurrences of a Element in List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListCount.py)
