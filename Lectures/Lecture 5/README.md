@@ -114,7 +114,7 @@
   print(count)
   ```
 * Program - [Program to slice a string from desired strin then find index](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringSlicingandFind.py) - It is also called as __Cropping__
-* Program - [Program to display YES/NO for string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringFind.py)
+* Program - [Program to display Yes/No for string](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%205/StringFind.py)
 * Above, program is correct but Python has another keyword called as __`in`__
 * For Example:
   ```
