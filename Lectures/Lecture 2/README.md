@@ -15,11 +15,11 @@ __Error Handling__
   * Similarly, r = r + 2 -> Value of r is increment by value of 2.
     * As a mathematical expression, it is not valid because r - r = 2 => 0 != 2
 * Program - [Program to Calculate the Area of Circle](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%202/CircleArea.py)
-  ```
-    r = 10
-    area = 3.14 * r * r
-    print(area)
-  ```
+```
+  r = 10
+  area = 3.14 * r * r
+  print(area)
+```
 * `" "` quotes are used only for printing Strings
   * print("Hello")
   * print("area")  //Wrong because here area is a variable not a string
@@ -32,17 +32,17 @@ __Error Handling__
 * input() is used to take dynamic input from console.
 * Python treats input taken from console as Strings. So, it is must to type cast for numeric values.
 * For Example:
-  ```
-    r = int(input())
-    area = 3.14 * r * r
-    print(area)
-  ```
+```
+  r = int(input())
+  area = 3.14 * r * r
+  print(area)
+```
 * `#` is used for Commenting code in Python. Shortcut key is __CTRL + /__
 * To print the output in single line, `end = " "` is used
-  ```
-  print("Hello", end= " ")
-  print("World")
-  ```
+```
+print("Hello", end= " ")
+print("World")
+```
   Output : Hello World
 
 ## Basics of Strings
