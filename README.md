@@ -23,7 +23,7 @@
   * Lecture 14
   * Lecture 15
 * __Problem Solving__
-  * [Hackerrank](https://github.com/abhinavg916/ytcodehelp-python/tree/master/Problem%20Solving/Hackerrank)
+  * Hackerrank - Python
 
 ## Author
 * Name - Abhinav
