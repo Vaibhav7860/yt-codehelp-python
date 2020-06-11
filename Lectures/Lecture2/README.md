@@ -1,5 +1,4 @@
 # Lecture Notes 2
-### Date: 09-May-2020
 
 __Error Handling__
 * How to resolve error, copy the complete error and paste in the Google.

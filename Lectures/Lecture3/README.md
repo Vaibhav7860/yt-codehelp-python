@@ -1,5 +1,4 @@
 # Lecture Notes 3
-### Date: 10-May-2020
 
 * Python is indentation sensitive language.
 * `:` symbol is used to denote the sub-body or internal body

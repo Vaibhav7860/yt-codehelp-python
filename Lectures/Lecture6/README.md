@@ -1,5 +1,4 @@
 # Lecture Notes 6
-### Date: 18-May-2020
 
 ## List: Basic Operations
 * It is a collection which stores number of variables in continuous memory space

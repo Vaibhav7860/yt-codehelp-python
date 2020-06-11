@@ -1,5 +1,4 @@
 # Lecture Notes 8
-### Date: 28-May-2020
 
 ## Dictionaries: Basic Operation
 * It is meant for storing associated __key and values pairs__ together

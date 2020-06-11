@@ -1,5 +1,4 @@
 # Lecture Notes 1
-### Date: 08-May-2020
 
 ## Python Installation
 * Download Link - [Download Python](https://www.python.org/downloads/)

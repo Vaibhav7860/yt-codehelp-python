@@ -1,5 +1,4 @@
 # Lecture Notes 5
-### Date: 15-May-2020
 
 ## Strings: Introduction
 * Strings are combination of characters

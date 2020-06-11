@@ -15,7 +15,7 @@
   * Lecture 6 - List: Length, Append, Extend, Insert, Count, Sum, Pop, Sort
   * Lecture 7 - Hackerrank Tutorial, Split, Accessing Last Index of List
   * Lecture 8 - Dictionaries: Length, Insertion, Updation, Deletion, Searching
-  * Lecture 9
+  * Lecture 9 - Computer Graphics and MatPlot Library
   * Lecture 10
   * Lecture 11
   * Lecture 12

@@ -1,5 +1,4 @@
 # Lecture Notes 4
-### Date: 13-May-2020
 
 ## For Loop
 * It is one of the type of loop
