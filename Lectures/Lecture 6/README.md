@@ -4,7 +4,7 @@
 * It is a collection which stores number of variables in continuous memory space
 * It follows indices to access the elements
 * Syntax:
-    * Creation
+* Creation
 ```
 variableName = []
 variableName = [1,2,3]
@@ -23,7 +23,7 @@ len(listVariableName)
 ```
 
 * For Example:
-    * Creation
+* Creation
 ```
 l1 = [] # Empty List
 l2 = [1,2,3] # List with elements in it
