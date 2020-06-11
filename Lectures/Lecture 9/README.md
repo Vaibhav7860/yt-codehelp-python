@@ -28,6 +28,6 @@
     ```
 * For a Polygon, Start and End points must be same. In other words, the last point in the list of coordinates (X and Y) must be the very first point so that polygon is closed
 * Program - [Program for Ploting Square](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%209/PlotingSquare.py)
-![Output](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%209/PlotingSquare.py)
-* Problem Statement - [Assignment](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture9/Assignment.pdf)
-* Program - [Assignment Program](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture9/AssignmentProgram.py)
+![Output](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%209/Square.JPG)
+* Problem Statement - [Assignment](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%209/Assignment.pdf)
+* Program - [Assignment Program](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%209/AssignmentProgram.py)
