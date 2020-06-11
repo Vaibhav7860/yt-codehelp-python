@@ -79,4 +79,4 @@
   result =  myFunc2(8,10)
   print(result)
   ```
-* Program - [Program for Import an From Statements](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/ImportAndFrom.py)
+* Program - [Program for Import and From Statements](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/ImportAndFrom.py)
