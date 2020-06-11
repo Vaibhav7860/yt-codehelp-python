@@ -5,10 +5,10 @@
 * Elements stored in dictionaries are called as __Tuples__
 * With the help of key, respective value can be accessed
 * Dictionaries are __un-ordered__ whereas list are ordered which means ordered can be accessed by the help of indices. Thus, dictionaries have no indexing. It returns error as "KeyError" upon accessing following way:
-  ```
-  stuMarks = {'Abhinav': 90,'Babbar': 100,'Rahul':80,'Ajay':95}
-  print(stuMarks[2]) # Key Error because 2 is treated as key, not as index in dictionaries
-  ```
+```
+stuMarks = {'Abhinav': 90,'Babbar': 100,'Rahul':80,'Ajay':95}
+print(stuMarks[2]) # Key Error because 2 is treated as key, not as index in dictionaries
+```
 * Key can only be integer or a string
 * Values can be of any type (decimal, string, integer, list, etc)
 ```

@@ -8,16 +8,20 @@
 ```
 variableName = []
 variableName = [1,2,3]
+
 ```
-    * Accessing Elements
+
+* Accessing Elements
 ```
 variableName[index]
 ```
-    * Length Calculation
-        * __len()__ is used
+
+* Length Calculation
+    * __len()__ is used
 ```
 len(listVariableName)
 ```
+
 * For Example:
     * Creation
 ```
@@ -26,16 +30,19 @@ l2 = [1,2,3] # List with elements in it
 print(l1)
 print(l2)
 ```
-    * Accessing
+
+* Accessing
 ```
 l = [1,2,3]
 print(l[1]) # Output = 2
 ```
-    * Length of a list
+
+* Length of a list
 ```
 l = [1,2,3]
 print(len(l)) # Output = 3
 ```
+
 * Program - [Program for Length of List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListLength.py)
 * __Taking Dynamic Inputs__
 ```
