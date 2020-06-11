@@ -20,7 +20,7 @@
       for x in range(2, 30, 2):
         print(x)
       ```
-* Program - [Program for Variations in for Loop](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/VariationsOfForLoop.py)
+* Program - [Program for Variations in For Loop](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/VariationsOfForLoop.py)
 
 ## Functions
 * Python program begins from __main__ function
