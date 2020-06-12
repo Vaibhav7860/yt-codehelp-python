@@ -44,7 +44,7 @@ while(x > 10):
 ```
 * when condition is satisfied all time than programs runs into infinite loop.
 * Infinite Loop - No blocking condition and loop keeps on executing the code inside it.
-* __CTRL + Z__ - Stops the infinite loop during execution.
+* `CTRL + Z` - Stops the infinite loop during execution.
 ```
 x = int(input())
 while(x > 10):
@@ -53,7 +53,7 @@ while(x > 10):
 ```
 * `break` is a selection statement that brings control out of the loop anytime.
 * To use inbuilt functions, Python uses support of libraries which contains the pre-defined methods.
-* __import__ is used to import the library and is always defined on top of program code.
+* `import` is used to import the library and is always defined on top of program code.
 * For Example:
   * `import random` - Here, random is the name of the python library <br>
   * `randint(a, b)` - randint() method takes two arguments which generates the random numbers between them

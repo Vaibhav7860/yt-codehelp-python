@@ -17,7 +17,7 @@ variableName[index]
 ```
 
 * Length Calculation
-    * __len()__ is used
+    * len() is used
 ```
 len(listVariableName)
 ```
@@ -44,7 +44,7 @@ print(len(l)) # Output = 3
 ```
 
 * Program - [Program for Length of List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListLength.py)
-* __Taking Dynamic Inputs__
+* Taking Dynamic Inputs
 ```
 l = []
 n = 5
@@ -55,8 +55,8 @@ for i in range(n):
 print(l)
 ```
 * Program - [Program for Dynamic Input](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListDynamicInput.py)
-* __Sum of Elements__ in a list
-* __sum()__ is used
+* Sum of Elements in a list
+* sum() is used
 * It calculates the sum of all elements in a list
 * Syntax:
 ```
@@ -80,7 +80,7 @@ print(x) # Output = [2,3,4]
 * Program - [Program for Slicing in List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListSlicing.py)
 
 ## List: Insertion
-* __append()__
+* append()
     * It adds the element in the end of the list
     * Syntax:
 ```
@@ -92,7 +92,7 @@ l = [1,2,3,4,5,6]
 l.append(7)
 print(l) # Output = [1, 2, 3, 4, 5, 6, 7]
 ```
-* __extend()__
+* extend()
     * It adds another list to a list
     * Ut adds in the end of the list
     * Syntax is similar to append()
@@ -103,7 +103,7 @@ b= [20,10]
 l.extend(b)
 print(l) # Output = [1, 2, 3, 4, 5, 6, 20, 10]
 ```
-* __insert()__
+* insert()
     * It adds the element at the desired index and shifts rest of the elements
     * Syntax:
 ```
@@ -118,7 +118,7 @@ print(l) # Output = [0, 1, 2, 3, 4, 5, 6]
 * Program - [Program for Input or Insertion in List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListInsertion.py)
 
 ## List: Sorting
-* __sort()__ is used
+* sort() is used
     * Syntax:
 ```
 variableName.sort()
@@ -132,7 +132,7 @@ print(x) # Output = [2, 3, 5, 6]
 * Program - [Program to Sort a List](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%206/ListSorting.py)
 
 ## List: Deletion
-* __pop()__ is used
+* pop() is used
 * It deletes the element based on the index provided
 * Syntax
 ```
@@ -148,7 +148,7 @@ print(l) # Output = [5, 2, 3]
 
 ## List: Count
 * It counts the occurances of an element in the list
-* __count()__ is used
+* count() is used
 * Syntax:
 ```
 variableName.count(element)

@@ -37,7 +37,7 @@ __Error Handling__
   area = 3.14 * r * r
   print(area)
 ```
-* `#` is used for Commenting code in Python. Shortcut key is __CTRL + /__
+* `#` is used for Commenting code in Python. Shortcut key is `CTRL + /`
 * To print the output in single line, `end = " "` is used
 ```
 print("Hello", end= " ")

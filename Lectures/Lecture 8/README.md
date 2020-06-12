@@ -1,10 +1,10 @@
 # Lecture Notes 8
 
 ## Dictionaries: Basic Operation
-* It is meant for storing associated __key and values pairs__ together
-* Elements stored in dictionaries are called as __Tuples__
+* It is meant for storing associated key and values pairs together
+* Elements stored in dictionaries are called as Tuples
 * With the help of key, respective value can be accessed
-* Dictionaries are __un-ordered__ whereas list are ordered which means ordered can be accessed by the help of indices. Thus, dictionaries have no indexing. It returns error as "KeyError" upon accessing following way:
+* Dictionaries are un-ordered whereas list are ordered which means ordered can be accessed by the help of indices. Thus, dictionaries have no indexing. It returns error as "KeyError" upon accessing following way:
 ```
 stuMarks = {'Abhinav': 90,'Babbar': 100,'Rahul':80,'Ajay':95}
 print(stuMarks[2]) # Key Error because 2 is treated as key, not as index in dictionaries
@@ -27,17 +27,17 @@ variableName = {'Abhinav': 90,'Babbar': 100,'Rahul':80,'Ajay':95}
 print(variableName)
 ```
   * Accessing all keys
-    * __keys()__ is used
+    * keys() is used
 ```
 variableName.keys()
 ```
   * Accessing all values
-    * __values()__ is used
+    * values() is used
 ```
 variableName.values()
 ```
   * Length Calculation
-    * __len()__ is used  
+    * len() is used  
 ```
 len(listVariableName)
 ``` 
@@ -99,7 +99,7 @@ stuMarks['Abhinav'] = 100
 print(stuMarks) # Output - {'Abhinav': 100, 'Babbar': 100, 'Rahul': 80, 'Ajay': 95}
 ```
   * Collective Updation
-    * __for loop__ and __in__ is used 
+    * for loop and `in` is used 
 ```
 stuMarks = {'Abhinav': 90,'Babbar': 100,'Rahul':80,'Ajay':95}
 for i in stuMarks:
@@ -115,7 +115,7 @@ Ajay 95
 
 ## Dictionaries: Deletion
 * Deletion happens in form of pair which means selective key or value is not deleted
-* __del__ keyword is used
+* `del` keyword is used
 * Key is used to target for deletion of the pair
 * Syntax:
 ```
@@ -130,7 +130,7 @@ print(stuMarks) # Output - {'Babbar': 100, 'Rahul': 80, 'Ajay': 95}
 * Program - [Program for Dictionary Deletion](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%208/DictionaryDeletion.py)
 
 ## Dictionaries: Searching
-* __Searching value from a corresponding key__
+* Searching value from a corresponding key
   * Key is used to target and corresponding value is returned
   * Syntax:
 ```
@@ -142,8 +142,8 @@ stuMarks = {'Abhinav': 90,'Babbar': 100,'Rahul':80,'Ajay':95}
 l = stuMarks['Abhinav']
 print(l) # Output - 90
 ```
-* __Searching for key-value pairs__
-  * __in__ keyword is used
+* Searching for key-value pairs
+  * `in` keyword is used
   * Syntax:
 ```
 if(Key in variableName):

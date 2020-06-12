@@ -23,8 +23,8 @@ for x in range(2, 30, 2):
 * Program - [Program for Variations in For Loop](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/VariationsOfForLoop.py)
 
 ## Functions
-* Python program begins from __main__ function
-* It is defined with the help of __def__ keyword
+* Python program begins from `main` function
+* It is defined with the help of `def` keyword
 * Functions are always called when to be used
 * For Example:
   * Variable is not required if the function return void
@@ -45,7 +45,7 @@ print(result)
 * Program - [Program for Function](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%204/Functions.py)
 
 ## Import and From Command
-* __import__ is used for importing contents of other program into the current file.
+* `import` is used for importing contents of other program into the current file.
 * It imports only the necessary and required contents
 * `.` operator is used to access the contents(method, variables, etc)
 * It helps in
@@ -62,9 +62,9 @@ print(FileName.MemberName)
 import Functions
 print(Functions.x)
 ```
-* __from__ is used for importing contents of other program into the current file.
+* `from` is used for importing contents of other program into the current file.
 * It provides the ablility to import all or selected contents
-* It does __not uses__ and does __not requre__ `.`operator to access
+* It does not uses and does not require `.`operator to access
 * To import all the content, `*` is used
 * Syntax:
 ```
