@@ -1,10 +1,6 @@
 # Python Programming
 ## General Instructions
 * Course - [Python Programming - Code Help (YouTube)](https://www.youtube.com/watch?v=KI2LkOKkuoI&list=PLDzeHZWIZsTrPQHBWT0Rxjc37n6DjUpbf)
-* Course Review
-  * Experience - Lack of Conceptual Depth
-  * Content - 2/5
-  * Status - Not Recommended
 
 ## Requirements
 * __Python__ - [Download Python](https://www.python.org/downloads/)
@@ -24,7 +20,7 @@
   * Lecture 8 - Dictionaries: Length, Insertion, Updation, Deletion, Searching
   * Lecture 9 - Basics of Computer Graphics and MatPlot Library
   * Lecture 10 - 2D Lists and Recursion
-  * Lecture 11
+  * Lecture 11 - Making games in Python - PACMAN
   * Lecture 12
   * Lecture 13
   * Lecture 14
