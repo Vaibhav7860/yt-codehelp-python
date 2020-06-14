@@ -1,12 +1,12 @@
 # Lecture Notes 10
 
 ## 2D List
-* List stores data into in continous memory allocation
+* List stores data into in continuous memory allocation
 * Unlike normal list which stores numeric value or characters in it and is declared as
 ```
 list = [] # Empty List
 ```
-* 2D List - Stores list as a part of it i.e List of Lists
+* 2D List - Stores list as a part of it i.e. List of Lists
 * It is very much helpful for storing matrix elements
 * Syntax:
   * Creation
