@@ -1,8 +1,10 @@
 # Python Programming
 ## General Instructions
-* Experience - Lack of Depth
-* Content - 2/5
-* Status - Not Recommended
+* Course - [Python Programming - Code Help](https://www.youtube.com/watch?v=KI2LkOKkuoI&list=PLDzeHZWIZsTrPQHBWT0Rxjc37n6DjUpbf)
+* Course Review
+  * Experience - Lack of Conceptual Depth
+  * Content - 2/5
+  * Status - Not Recommended
 
 ## Requirements
 * __Python__ - [Download Python](https://www.python.org/downloads/)
