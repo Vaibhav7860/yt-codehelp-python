@@ -1,6 +1,6 @@
 # Python Programming
 ## General Instructions
-* Course - [Python Programming - Code Help](https://www.youtube.com/watch?v=KI2LkOKkuoI&list=PLDzeHZWIZsTrPQHBWT0Rxjc37n6DjUpbf)
+* Course - [Python Programming - Code Help (YouTube)](https://www.youtube.com/watch?v=KI2LkOKkuoI&list=PLDzeHZWIZsTrPQHBWT0Rxjc37n6DjUpbf)
 * Course Review
   * Experience - Lack of Conceptual Depth
   * Content - 2/5
