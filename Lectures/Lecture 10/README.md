@@ -9,12 +9,12 @@ list = [] # Empty List
 * 2D List - Stores list as a part of it i.e List of Lists
 * It is very much helpful for storing matrix elements
 * Syntax:
-* Creation
+  * Creation
 ```
 vairableListName = [[], []]
 ```
-* Taking Dynamic Input
-   * for loop can also be used
+  * Taking Dynamic Input
+    * for loop can also be used
 ```
 ll = [] # Empty List
 a = list(map(int, input().split()))
@@ -26,7 +26,7 @@ ll.append(c)
 print(ll) # Output - [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 ```
 * For Example:
-* Creation
+  * Creation
 ```
 l = [[1,2,3], [4,5,6], [7,8,9]]
 for i in l:
@@ -37,7 +37,7 @@ for i in l:
 [4, 5, 6]
 [7, 8, 9]
 ```
-* Dynamic Input
+  * Dynamic Input
 ```
 ll = []
 a = list(map(int, input().split()))
