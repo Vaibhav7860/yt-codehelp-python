@@ -48,7 +48,7 @@ ll.append(b)
 ll.append(c)
 print(ll) # Output - [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 ```
-* Program - [Program for 2D List Basics]()
+* Program - [Program for 2D List Basics](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%2010/2DListIntroduction.py)
 
 ## Recursion
 * Recursion - Self Calling Functions are called as Recursive Functions
@@ -58,4 +58,4 @@ print(ll) # Output - [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 * Method calls are stored in Stack Memory
 * It is widely used in Traversals of various Data Structures like Trees, Graphs and Algorithms like Backtracking, Dynamic Programming, etc.
 * Logic Building is simpler than Iteration
-* Program - [Program for Calculating Factorial of a Number using Recursion]()
+* Program - [Program for Calculating Factorial of a Number using Recursion](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%2010/FactorialRecursion.py)
