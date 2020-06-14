@@ -258,5 +258,5 @@ while crash is False:
 	time.sleep(0.1)
 ```
 * Output
-![GUI]()
-* Program - [Program for PACMAN]()
+![GUI](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%2011/GUI.jpg)
+* Program - [Program for PACMAN](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Lectures/Lecture%2011/PACMAN/PACMAN.py)
