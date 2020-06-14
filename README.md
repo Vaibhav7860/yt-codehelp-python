@@ -1,4 +1,9 @@
 # Python Programming
+## General Instructions
+* Experience - Lack of Depth
+* Content - 2/5
+* Status - Not Recommended
+
 ## Requirements
 * __Python__ - [Download Python](https://www.python.org/downloads/)
 * __IDE__
@@ -16,7 +21,7 @@
   * Lecture 7 - Hackerrank Tutorial, Split, Accessing Last Index of List
   * Lecture 8 - Dictionaries: Length, Insertion, Updation, Deletion, Searching
   * Lecture 9 - Basics of Computer Graphics and MatPlot Library
-  * Lecture 10
+  * Lecture 10 - 2D Lists and Recursion
   * Lecture 11
   * Lecture 12
   * Lecture 13
