@@ -1,6 +1,6 @@
 # Python Programming
-## General Instructions
 * Course - [Python Programming - Code Help (YouTube)](https://www.youtube.com/watch?v=KI2LkOKkuoI&list=PLDzeHZWIZsTrPQHBWT0Rxjc37n6DjUpbf)
+![Cover](https://github.com/abhinavg916/ytcodehelp-python/blob/master/Cover.jpg)
 
 ## Requirements
 * __Python__ - [Download Python](https://www.python.org/downloads/)
